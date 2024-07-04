@@ -1,22 +1,7 @@
-<div style="text-align: center;">
-    <span style="font-size: 48px; font-weight: bold;">
-        Reading
-    </span>
-</div>
 
-<div style="text-align: center;">
-    <span style="font-size: 18px; font-weight: normal;">
-        @readandprogress
-    </span>
-    
-</div>
-<br>
+# Reading (@readandprogress)
 
-<div style="text-align: center;">
-    <blockquote style="font-size: 24px; font-style: italic;">
-        "Another new project, another way to tinker!"
-    </blockquote>
-</div>
+> "Another new project, another way to tinker!"
 
 ----
 
